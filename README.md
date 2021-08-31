@@ -1,5 +1,7 @@
 # Robofriends
 
+## https://andrey-varakin.github.io/Robofriends/
+
 A React App to search up your favorite robots. 
 
 Built for my Complete Web Developer course, this project employs React, Tachyons, and outside API calls to create a dynamic, styalized and stateful application. API's used inclued JSONPlaceholder for basic user information and RoboHash for user images. The search bar and title remain on screen regardless of screensize or scrolling. 
